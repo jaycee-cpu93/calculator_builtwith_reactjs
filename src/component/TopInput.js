@@ -110,9 +110,8 @@ const TopInput = (props) => {
         
                     
         }
-    
 
-    
+    }    
     return(
         <div>
             <input  type="text" placeholder={answer}/><br/>
